@@ -1,4 +1,3 @@
-
 def iterateList(l, n):
 	if len(l) == n:
 		return l
