@@ -18,7 +18,7 @@ https://github.com/szEIgo/4semester/tree/master/Python/Opgave%202%20(5-6)
 
 # Assignment 3:
 
-- [x] Iterate through a list and prints each value without using a loop - FIlE = iterator.py
+- [x] Iterate through a list and prints each value without using a loop - file = iterator.py
 - [ ] Write a module webget.py
 - [ ] Write a program that creates gramatically valid English sentences
 
