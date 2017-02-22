@@ -15,5 +15,9 @@ https://github.com/szEIgo/4semester/tree/master/Python/Opgave%201%20(1-4)
 
 https://github.com/szEIgo/4semester/tree/master/Python/Opgave%202%20(5-6)
 #Assignment 3:
-https://github.com/szEIgo/4semester/tree/master/Python/Opgave%202%20(5-6)
+
+- [x] Iterate through a list and prints each value without using a loop
+- [ ] Write a module webget.py
+- [ ] Write a program that creates gramatically valid English sentences
+https://github.com/szEIgo/4semester/tree/master/Python/Opgave%203%20(7-8)
 
