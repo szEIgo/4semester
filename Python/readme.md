@@ -24,9 +24,9 @@ http://data.kk.dk/dataset/9070067f-ab57-41cd-913e-bc37bfaf9acd/resource/9fbab4aa
 http://data.kk.dk/dataset/9070067f-ab57-41cd-913e-bc37bfaf9acd/resource/9fbab4aa-1ee0-4d25-b2b4-b7b63537d2ec
 
 
-Maybe its nice that many possible dates are found in these cities. But you also want your date to pay for you "Of course"!
+li make a list (my_paradise) with the 10 cities.
+li Give a graphical view of the 10 cities that is your purposed paradise by using plotting.
 
-Give a graphical view of the 10 cities that is your purposed paradise by using plotting.
 
 
 
