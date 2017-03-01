@@ -14,7 +14,7 @@ example. parameters : I am a boy age=24 - so i have to find which cities that ha
 
 Put your paradise cities in a list called -->   my_paradise
 
-Headers (ENG): Population by city, city, age, gender and civilstatus in municipality of Copenhangen.
+#### Headers: Population by city, city, age, gender and civilstatus in municipality of Copenhangen.
 
 
 CSV file:
@@ -26,21 +26,12 @@ http://data.kk.dk/dataset/9070067f-ab57-41cd-913e-bc37bfaf9acd/resource/9fbab4aa
 
 Maybe its nice that many possible dates are found in these cities. But you also want your date to pay for you "Of course"!
 
+Give a graphical view of the 10 cities that is your purposed paradise by using plotting.
 
 
-## Assignment 2
-### You dont want to work in paradise!
-
-In paradise you should not work! Therefore you find a partner that can make your living for you!
-Find out which of the cities within Copenhangen, that have the lowest unemployment rate, to maximize the chance of getting a date that have a job. 
-
-Now you have to compare the cities of Assignment 1 with the cities that have lowest unemployment rate.
 
 
-So if your top 1 paradise city from Assignment 1, have a very high uenmploymentrate, then it is not your idealistic paradise city. 
-Make a point system which takes this into consideration or make a list with the lowest Unemployment rates within copenhangen, and just take the two first cities with the same name on the list.
 
-You now have a more realistic guess of your paradise city as a single.
 
 
 
