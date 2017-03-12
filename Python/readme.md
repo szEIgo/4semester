@@ -14,7 +14,9 @@ example. parameters : I am a boy age=24 - so i have to find which cities that ha
 
 Put your paradise cities in a list called -->   my_paradise
 
-#### Headers: Population by city, city, age, gender and civilstatus in municipality of Copenhangen.
+
+
+#### Headers: Population by year, city, age, gender and civilstatus in municipality of Copenhangen.
 
 
 #### CSV file:
