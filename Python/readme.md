@@ -30,6 +30,8 @@ http://data.kk.dk/dataset/9070067f-ab57-41cd-913e-bc37bfaf9acd/resource/9fbab4aa
 
 
 * Make a list (my_paradise) with the 10 cities.
+* How many people above age 40 has moved away from areacode 1, 2 & 3 from 2000 to 2015
+* 
 * Give a graphical view of the 10 cities that is your purposed paradise by using plotting.
 
 
